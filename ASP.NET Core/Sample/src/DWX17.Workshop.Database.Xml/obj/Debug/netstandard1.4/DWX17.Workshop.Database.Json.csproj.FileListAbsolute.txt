@@ -1,0 +1,9 @@
+C:\temp\dwx\src\DWX17.Workshop.Database.Xml\bin\Debug\netstandard1.4\DWX17.Workshop.Database.Json.deps.json
+C:\temp\dwx\src\DWX17.Workshop.Database.Xml\bin\Debug\netstandard1.4\DWX17.Workshop.dll
+C:\temp\dwx\src\DWX17.Workshop.Database.Xml\obj\Debug\netstandard1.4\DWX17.Workshop.Database.Json.csprojResolveAssemblyReference.cache
+C:\temp\dwx\src\DWX17.Workshop.Database.Xml\obj\Debug\netstandard1.4\DWX17.Workshop.Database.Json.AssemblyInfo.cs
+C:\temp\dwx\src\DWX17.Workshop.Database.Xml\bin\Debug\netstandard1.4\DWX17.Workshop.Database.Json.dll
+C:\temp\dwx\src\DWX17.Workshop.Database.Xml\bin\Debug\netstandard1.4\DWX17.Workshop.Database.Json.pdb
+C:\temp\dwx\src\DWX17.Workshop.Database.Xml\bin\Debug\netstandard1.4\DWX17.Workshop.pdb
+C:\temp\dwx\src\DWX17.Workshop.Database.Xml\obj\Debug\netstandard1.4\DWX17.Workshop.Database.Json.dll
+C:\temp\dwx\src\DWX17.Workshop.Database.Xml\obj\Debug\netstandard1.4\DWX17.Workshop.Database.Json.pdb
