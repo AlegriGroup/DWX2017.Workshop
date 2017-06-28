@@ -1,0 +1,14 @@
+version: '2'
+
+services:
+  dwx17.workshop.webapp:
+    image: dwx17.workshop.webapp
+    build:
+      context: ./src/DWX17.Workshop.WebApp
+      dockerfile: Dockerfile
+
+  dwx17.workshop.cli:
+    image: dwx17.workshop.cli
+    build:
+      context: ./src/DWX17.Workshop.CLI
+      dockerfile: Dockerfile

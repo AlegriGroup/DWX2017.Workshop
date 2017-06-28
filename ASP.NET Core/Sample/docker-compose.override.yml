@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  dwx17.workshop.webapp:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
