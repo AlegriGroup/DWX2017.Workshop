@@ -1,0 +1,29 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: dwx-webapp
+spec:
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: dwx-webapp
+    spec:
+      containers:
+      - name: dwx-webapp
+        image: code2prodhub.azurecr.io/dwx.webapp:latest
+        ports:
+        - containerPort: 80
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: dwx-service
+spec:
+  type: LoadBalancer
+  selector:
+    app: dwx-webapp
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
