@@ -18,8 +18,8 @@ Optional:
 
 ## Setup Container Registry
 Create an Azure Contaier Registry:
-![IMG_1_Registry.png]
-![IMG_2_Registry.png]
+![IMG1](IMG_1_Registry.png)
+![IMG2](IMG_2_Registry.png)
 
 
 ## Setup Kubernetes Cluster
