@@ -1,6 +1,7 @@
 # DWX2017.Workshop
 
-Erreichbar unter: http://bit.ly/DWX17-Workshop-Code2Prod
+Erreichbar unter: 
+> http://bit.ly/DWX17-Workshop-Code2Prod
 
 ## Requirements
 
