@@ -7,8 +7,9 @@ services:
       context: ./src/DWX17.Workshop.WebApp
       dockerfile: Dockerfile
 
-  dwx17.workshop.cli:
-    image: dwx17.workshop.cli
-    build:
-      context: ./src/DWX17.Workshop.CLI
-      dockerfile: Dockerfile
+#  dwx17.workshop.cli:
+#    image: dwx17.workshop.cli
+#    build:
+#      context: ./src/DWX17.Workshop.CLI
+#      dockerfile: Dockerfile
+#

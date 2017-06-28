@@ -1,0 +1,11 @@
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.CLI\bin\Debug\netcoreapp1.1\DWX17.Workshop.CLI.deps.json
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.CLI\bin\Debug\netcoreapp1.1\DWX17.Workshop.CLI.runtimeconfig.json
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.CLI\bin\Debug\netcoreapp1.1\DWX17.Workshop.CLI.runtimeconfig.dev.json
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.CLI\bin\Debug\netcoreapp1.1\DWX17.Workshop.CLI.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.CLI\bin\Debug\netcoreapp1.1\DWX17.Workshop.CLI.pdb
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.CLI\bin\Debug\netcoreapp1.1\DWX17.Workshop.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.CLI\bin\Debug\netcoreapp1.1\DWX17.Workshop.pdb
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.CLI\obj\Debug\netcoreapp1.1\DWX17.Workshop.CLI.csprojResolveAssemblyReference.cache
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.CLI\obj\Debug\netcoreapp1.1\DWX17.Workshop.CLI.AssemblyInfo.cs
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.CLI\obj\Debug\netcoreapp1.1\DWX17.Workshop.CLI.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.CLI\obj\Debug\netcoreapp1.1\DWX17.Workshop.CLI.pdb

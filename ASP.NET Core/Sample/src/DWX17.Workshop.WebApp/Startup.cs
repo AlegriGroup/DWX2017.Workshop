@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DWX17.Workshop.WebApp.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -27,6 +28,10 @@ namespace DWX17.Workshop.WebApp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            IConfigurationSection dwxConfig = Configuration.GetSection("DWX");
+
+            services.AddTransient<ITextService>(srv => new ConfigTextService(dwxConfig));
+
             // Add framework services.
             services.AddMvc();
         }
