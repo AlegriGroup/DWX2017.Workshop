@@ -12,3 +12,17 @@ C:\temp\dwx\src\DWX.Workshop.UnitTests\obj\Debug\netcoreapp1.1\DWX.Workshop.Unit
 C:\temp\dwx\src\DWX.Workshop.UnitTests\obj\Debug\netcoreapp1.1\DWX.Workshop.UnitTests.AssemblyInfo.cs
 C:\temp\dwx\src\DWX.Workshop.UnitTests\obj\Debug\netcoreapp1.1\DWX.Workshop.UnitTests.dll
 C:\temp\dwx\src\DWX.Workshop.UnitTests\obj\Debug\netcoreapp1.1\DWX.Workshop.UnitTests.pdb
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\bin\Debug\netcoreapp1.1\DWX.Workshop.UnitTests.deps.json
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\bin\Debug\netcoreapp1.1\DWX.Workshop.UnitTests.runtimeconfig.json
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\bin\Debug\netcoreapp1.1\DWX.Workshop.UnitTests.runtimeconfig.dev.json
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\bin\Debug\netcoreapp1.1\DWX.Workshop.UnitTests.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\bin\Debug\netcoreapp1.1\DWX.Workshop.UnitTests.pdb
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\bin\Debug\netcoreapp1.1\DWX17.Workshop.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\bin\Debug\netcoreapp1.1\DWX17.Workshop.pdb
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\obj\Debug\netcoreapp1.1\DWX.Workshop.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\obj\Debug\netcoreapp1.1\DWX.Workshop.UnitTests.AssemblyInfo.cs
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\obj\Debug\netcoreapp1.1\DWX.Workshop.UnitTests.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX.Workshop.UnitTests\obj\Debug\netcoreapp1.1\DWX.Workshop.UnitTests.pdb

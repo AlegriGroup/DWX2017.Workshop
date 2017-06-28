@@ -4491,10 +4491,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\dwx\\src\\DWX17.Workshop.Database.Xml\\DWX17.Workshop.Database.Json.csproj",
+      "projectUniqueName": "C:\\Users\\babt\\Desktop\\DWXWorkshop\\ASP.NET Core\\Sample\\src\\DWX17.Workshop.Database.Xml\\DWX17.Workshop.Database.Json.csproj",
       "projectName": "DWX17.Workshop.Database.Json",
-      "projectPath": "C:\\temp\\dwx\\src\\DWX17.Workshop.Database.Xml\\DWX17.Workshop.Database.Json.csproj",
-      "outputPath": "C:\\temp\\dwx\\src\\DWX17.Workshop.Database.Xml\\obj\\",
+      "projectPath": "C:\\Users\\babt\\Desktop\\DWXWorkshop\\ASP.NET Core\\Sample\\src\\DWX17.Workshop.Database.Xml\\DWX17.Workshop.Database.Json.csproj",
+      "outputPath": "C:\\Users\\babt\\Desktop\\DWXWorkshop\\ASP.NET Core\\Sample\\src\\DWX17.Workshop.Database.Xml\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
@@ -4502,8 +4502,8 @@
       "frameworks": {
         "netstandard1.4": {
           "projectReferences": {
-            "C:\\temp\\dwx\\src\\DWX17.Workshop\\DWX17.Workshop.csproj": {
-              "projectPath": "C:\\temp\\dwx\\src\\DWX17.Workshop\\DWX17.Workshop.csproj"
+            "C:\\Users\\babt\\Desktop\\DWXWorkshop\\ASP.NET Core\\Sample\\src\\DWX17.Workshop\\DWX17.Workshop.csproj": {
+              "projectPath": "C:\\Users\\babt\\Desktop\\DWXWorkshop\\ASP.NET Core\\Sample\\src\\DWX17.Workshop\\DWX17.Workshop.csproj"
             }
           }
         }

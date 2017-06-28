@@ -5,3 +5,10 @@ C:\temp\dwx\src\DWX17.Workshop\obj\Debug\netstandard1.4\DWX17.Workshop.csprojRes
 C:\temp\dwx\src\DWX17.Workshop\obj\Debug\netstandard1.4\DWX17.Workshop.AssemblyInfo.cs
 C:\temp\dwx\src\DWX17.Workshop\obj\Debug\netstandard1.4\DWX17.Workshop.dll
 C:\temp\dwx\src\DWX17.Workshop\obj\Debug\netstandard1.4\DWX17.Workshop.pdb
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop\bin\Debug\netstandard1.4\DWX17.Workshop.deps.json
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop\bin\Debug\netstandard1.4\DWX17.Workshop.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop\bin\Debug\netstandard1.4\DWX17.Workshop.pdb
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop\obj\Debug\netstandard1.4\DWX17.Workshop.csprojResolveAssemblyReference.cache
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop\obj\Debug\netstandard1.4\DWX17.Workshop.AssemblyInfo.cs
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop\obj\Debug\netstandard1.4\DWX17.Workshop.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop\obj\Debug\netstandard1.4\DWX17.Workshop.pdb

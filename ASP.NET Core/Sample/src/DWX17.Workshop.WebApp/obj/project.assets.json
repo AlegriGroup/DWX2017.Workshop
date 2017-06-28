@@ -9775,10 +9775,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\dwx\\src\\DWX17.Workshop.WebApp\\DWX17.Workshop.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\babt\\Desktop\\DWXWorkshop\\ASP.NET Core\\Sample\\src\\DWX17.Workshop.WebApp\\DWX17.Workshop.WebApp.csproj",
       "projectName": "DWX17.Workshop.WebApp",
-      "projectPath": "C:\\temp\\dwx\\src\\DWX17.Workshop.WebApp\\DWX17.Workshop.WebApp.csproj",
-      "outputPath": "C:\\temp\\dwx\\src\\DWX17.Workshop.WebApp\\obj\\",
+      "projectPath": "C:\\Users\\babt\\Desktop\\DWXWorkshop\\ASP.NET Core\\Sample\\src\\DWX17.Workshop.WebApp\\DWX17.Workshop.WebApp.csproj",
+      "outputPath": "C:\\Users\\babt\\Desktop\\DWXWorkshop\\ASP.NET Core\\Sample\\src\\DWX17.Workshop.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

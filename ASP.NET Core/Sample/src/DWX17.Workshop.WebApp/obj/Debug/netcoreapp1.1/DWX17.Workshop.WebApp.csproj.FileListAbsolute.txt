@@ -7,3 +7,12 @@ C:\temp\dwx\src\DWX17.Workshop.WebApp\obj\Debug\netcoreapp1.1\DWX17.Workshop.Web
 C:\temp\dwx\src\DWX17.Workshop.WebApp\obj\Debug\netcoreapp1.1\DWX17.Workshop.WebApp.AssemblyInfo.cs
 C:\temp\dwx\src\DWX17.Workshop.WebApp\obj\Debug\netcoreapp1.1\DWX17.Workshop.WebApp.dll
 C:\temp\dwx\src\DWX17.Workshop.WebApp\obj\Debug\netcoreapp1.1\DWX17.Workshop.WebApp.pdb
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.WebApp\bin\Debug\netcoreapp1.1\DWX17.Workshop.WebApp.deps.json
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.WebApp\bin\Debug\netcoreapp1.1\DWX17.Workshop.WebApp.runtimeconfig.json
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.WebApp\bin\Debug\netcoreapp1.1\DWX17.Workshop.WebApp.runtimeconfig.dev.json
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.WebApp\bin\Debug\netcoreapp1.1\DWX17.Workshop.WebApp.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.WebApp\bin\Debug\netcoreapp1.1\DWX17.Workshop.WebApp.pdb
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.WebApp\obj\Debug\netcoreapp1.1\DWX17.Workshop.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.WebApp\obj\Debug\netcoreapp1.1\DWX17.Workshop.WebApp.AssemblyInfo.cs
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.WebApp\obj\Debug\netcoreapp1.1\DWX17.Workshop.WebApp.dll
+C:\Users\babt\Desktop\DWXWorkshop\ASP.NET Core\Sample\src\DWX17.Workshop.WebApp\obj\Debug\netcoreapp1.1\DWX17.Workshop.WebApp.pdb
