@@ -20,13 +20,13 @@ Write-Host "Create Kubernetes cluster"
 az group create --name=$RESOURCEGROUP --location=$LOCATION
 az acs create --orchestrator-type=kubernetes --resource-group $RESOURCEGROUP --name=$CLUSTERNAME --dns-prefix=$DNSPREFIX --generate-ssh-keys
 
-Write-Host "Cluster created. Wait for the Nodes to soin up..."
+Write-Host "Cluster created. Wait for the Nodes to spin up..."
 pause
 
 Write-Host "Connect to Cluster"
 az acs kubernetes get-credentials --resource-group=$RESOURCEGROUP --name=$CLUSTERNAME
 
-# You need the following outut to connect VSTS to your cluster
+# You need the following output to connect VSTS to your cluster
 Get-Content "$env:USERPROFILE\.kube\config"
 
 pause
